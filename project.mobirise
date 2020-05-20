@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -165,36 +165,52 @@
         },
         {
           "_params": {
-            "token": "1507534605.727bfe1.c22a41e6dee144ab8b9c01c165f7140d",
             "showTitle": true,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": "4",
-            "rows": 2,
-            "showMoreButton": false,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": "4",
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#fafafa",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "Latest Posts",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-link\" href=\"#\" data-max-id=\"1961178528812820942_1507534605\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
+          "title": "Get in touch",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-link\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
+          "form": {
+            "action": "donnchadhparkinson00@gmail.com",
+            "alerts": {
+              "success": "Message sent."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-5"
+          "_name": "form1",
+          "_anchor": "form1-6"
         },
         {
           "_params": {

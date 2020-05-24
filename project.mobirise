@@ -91,7 +91,7 @@
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",

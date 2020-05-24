@@ -96,7 +96,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/donnchadh-header-img-1-1024x678.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/b72a50df-47a7-4160-aac3-becf30cbbbd1-1024x683.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -125,6 +125,10 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-article": {
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -151,7 +155,7 @@
           },
           "title": "About",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "",
+          "text": "<p>Donnchadh Parkinson is a session guitarist hailing from Ireland.&nbsp;</p><p>Donnchadh has performed with Natty Wailer (Bob Marley's keyboard player), Mark Black, Thumper and Colleen to name a few. In recent years Donnchadh has performed at many of Ireland's top music festivals and venues around Ireland.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get in touch</a>",
           "_tags": [
             "Theme"
@@ -242,7 +246,7 @@
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": true,
+            "showCaptions": false,
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": "0",
@@ -283,8 +287,8 @@
               "size": 0
             }
           },
-          "title1": "My hand for plucking the strings",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "KZ ZST In-Ears",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -306,8 +310,8 @@
               "size": 0
             }
           },
-          "title2": "The wall stands",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Epiphone Les Paul &amp; American Fender Telecaster",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -393,7 +397,12 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-t"
+          "_anchor": "features1-t",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -401,7 +410,7 @@
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": true,
+            "showCaptions": false,
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -442,8 +451,8 @@
               "size": 0
             }
           },
-          "title1": "My guitar case",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "Faith Nexus Series - Indian Mahogany&nbsp;",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -465,8 +474,8 @@
               "size": 0
             }
           },
-          "title2": "My floor is good for holding stuff",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Pedal Board - From a recent project",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -571,7 +580,7 @@
           "title": "Fill out the form below to get in touch",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "form": {
-            "action": "eoinparkinsondonegal@gmail.com",
+            "action": "donnchadhparkinson00@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },

@@ -24,6 +24,10 @@
 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+.mbr-article {
+  text-align: center;
+  color: #000000;
+}
 }
 
 #gallery1-a {
@@ -36,6 +40,9 @@
 }
 
 #features1-t {
+P {
+  text-align: center;
+}
 }
 
 #features1-v {

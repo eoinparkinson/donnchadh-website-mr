@@ -222,7 +222,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -412,8 +412,8 @@
             "showCaptions": false,
             "showButtons": false,
             "paddingTop": 3,
-            "paddingBottom": "0",
-            "columns": "2",
+            "paddingBottom": "1",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -433,7 +433,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1853-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/faith-acoustic-guitar-copy-600x820.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -450,13 +450,13 @@
               "size": 0
             }
           },
-          "title1": "KZ ZST In-Ears",
+          "title1": "Faith Nexus Series - Indian Mahogany",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1854-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/epiphone-and-fender-600x963.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -479,9 +479,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/marshall-amp-600x961.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -493,7 +496,7 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
+          "title3": "Marshall - Amp",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -577,7 +580,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "2",
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -597,7 +600,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1856-600x746.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2020-05-25-14.11-3-600x400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -614,7 +617,7 @@
               "size": 0
             }
           },
-          "title1": "Faith Nexus Series - Indian Mahogany&nbsp;",
+          "title1": "KZ ZST In-Ears",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
@@ -643,9 +646,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/boss-katana-600x600.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -657,15 +663,18 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
+          "title3": "Boss Katana - Amp",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/marshall-amp-600x961.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -735,13 +744,13 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "Fill out the form below to get in touch",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "form": {
             "action": "donnchadhparkinson00@gmail.com",
             "alerts": {

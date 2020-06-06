@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Donnchadh Parkinson",
-    "currentPage": "404.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -292,6 +292,32 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=kiAupfXzZbA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-13"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
               "src": "https://www.youtube.com/watch?v=ApbHYu-rrOc&feature=youtu.be",
               "autoplay": false,
               "loop": false
@@ -329,32 +355,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-12"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=REUrAm_5OQM&feature=youtu.be",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-13"
         },
         {
           "_inherit": "msg-box3",

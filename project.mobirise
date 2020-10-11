@@ -456,7 +456,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/epiphone-and-fender-600x963.jpg",
+              "src": "@PROJECT_PATH@/assets/images/donnchadh-guitars-new-600x1003.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -473,7 +473,7 @@
               "size": 0
             }
           },
-          "title2": "Epiphone Les Paul &amp; American Fender Telecaster",
+          "title2": "American Fender Telecaster Suhr Custom Strat",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {

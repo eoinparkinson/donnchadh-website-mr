@@ -266,7 +266,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=DL3sVHiQN5U&feature=youtu.be",
+              "src": "https://youtu.be/cICvzilrtV0",
               "autoplay": false,
               "loop": false
             }
@@ -292,7 +292,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=OKHpxmGg8FI",
+              "src": "https://youtu.be/ttf-gKAQENs",
               "autoplay": false,
               "loop": false
             }
@@ -318,7 +318,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=SnG9rAr4GrM",
+              "src": "https://youtu.be/b5VK_F1MlEQ",
               "autoplay": false,
               "loop": false
             }
@@ -344,7 +344,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=RfwR6UlPvlU",
+              "src": "https://youtu.be/RfwR6UlPvlU",
               "autoplay": false,
               "loop": false
             }
@@ -355,53 +355,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-12"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#ffffff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "Experience",
-          "text": "<p>A brief list...</p><p>• Guitarist for Natty Wailer (Bob Marley's keyboard player).</p><p>• Performed with Mark Black.</p><p>• Performed with Thumper.</p><p>• Guitarist for Colleen.</p><p>• Performed mainstage on festivals like Sea Sessions, Buncrana Music festival to name a few.</p><p>• Performed in many leading venues in Ireland - The Button Factory, An Grianan Theatre, Whelans to &nbsp; &nbsp; &nbsp;name a few.</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-w"
         },
         {
           "_params": {
